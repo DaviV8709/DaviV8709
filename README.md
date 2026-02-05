@@ -6,5 +6,5 @@ I'm Davi, a young man that started to understand vast world of programming
 <br>Use of modules
 <br>Basic conditional structures
 <br>Colors in the terminal
-<br>Nested conditions<br>
+<br>Nested conditions
 <br>For loop and while loop
