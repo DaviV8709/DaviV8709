@@ -7,5 +7,5 @@ I'm Davi, a young man that started to understand vast world of programming
 <br>Basic conditional structures
 <br>Colors in the terminal
 <br>Nested conditions
-<br>|For| loop
+<br>|for| loop
 <br>|while| loop
