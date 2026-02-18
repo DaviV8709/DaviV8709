@@ -9,8 +9,7 @@ I'm Davi, a young man that started to understand vast world of programming
 <br>Basic conditional structures
 <br>Colors in the terminal
 <br>Nested conditions
-<br>|for| loop
-<br>|while|
+<br>|for| |while|
 <br> TUPLES and LISTS
 <br>
 <br> CONCEPTS 
