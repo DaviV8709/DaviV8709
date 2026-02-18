@@ -11,6 +11,7 @@ I'm Davi, a young man that started to understand vast world of programming
 <br>Nested conditions
 <br>|for| loop
 <br>|while|
+<br> TUPLES and LISTS
 <br>
 <br> CONCEPTS 
 <br> API REST (Basics)
