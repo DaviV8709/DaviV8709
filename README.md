@@ -10,7 +10,7 @@ I'm Davi, a young man that started to understand vast world of programming
 <br>Colors in the terminal
 <br>Nested conditions
 <br>|for| |while|
-<br> TUPLES and LIST
+<br> TUPLES and LISTS
 <br>
 <br> CONCEPTS 
 <br> API REST (Basics)
