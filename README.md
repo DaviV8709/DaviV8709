@@ -11,6 +11,7 @@ I'm Davi, a young man that started to understand vast world of programming
 <br>Conditional structure
 <br>Repetition structure 
 <br>Data Structures
+<br> Built Functions
 <br>
 <br> CONCEPTS 
 <br> API REST (Basics)
